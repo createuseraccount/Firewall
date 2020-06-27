@@ -1,0 +1,50 @@
+Firewall Training Course Playlist:
+
+https://www.youtube.com/playlist?list=PL8PnAf11sThUyzc2FUvcvOk1ksfWvkKsJ
+
+=================================================
+
+Firewall Training Course - Module
+
+Module:1 Introduction to Firewalls | Firewall Types l Packet Filtering l TCP state table | Firewall Behavior
+
+https://youtu.be/jxozPDVU_RA
+
+Module:2 NAT Explained | How NAT Works? | Types of NAT
+
+https://youtu.be/QTTFVgrLImc
+
+Module:3 What is DMZ? | DMZ Zone
+
+https://youtu.be/T50Lmf24n18
+
+Module:4 What is Next-generation Firewall | NEXT-GENERATION FIREWALL
+
+https://youtu.be/axfxlWsCFwc
+
+Module:5 ANTISPAM | How ANTISPAM works on Firewall | SPAM PROTECTION
+
+https://youtu.be/UwggvL35kvk
+
+Module:6 What is VPN? | VPN Features | VPN Protocols | VPN Types
+
+https://youtu.be/P7amINEcn_Q
+
+Module:7 IPSEC VPN OVERVIEW | IPSec/ IKE/ ESP/AH/ Tunnel/ Transport | IPSEC Framework
+
+https://youtu.be/ubO32XBC8TU
+
+Module: 8 [Practical] Firewall Penetration Testing | Firewall Audit
+
+https://youtu.be/ocekT9Llep0
+==================================================
+
+Don't Forget to subscribe
+
+YouTube Channel Subscription Link:
+
+https://www.youtube.com/c/BhavinPatel?sub_confirmation=1
+
+Press Like and share your feedback on comments and share with your colleagues.
+
+Thank You For The Support...
